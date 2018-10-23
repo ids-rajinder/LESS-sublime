@@ -6,3 +6,4 @@ hardlight(${1:color}, ${2:color})
 <description>less color-blending</description>
 <scope>source.css.less</scope>
 </snippet>
+ghgh
